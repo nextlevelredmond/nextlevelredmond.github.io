@@ -50,7 +50,12 @@ p {
 p:last-child {
   margin-bottom: 0;
 }
-
+.navlogo{
+  background-image: url("https://nextlevelredmond.github.io/img/logo1.png");
+  width: 100px;
+  height:58px;
+  background-size: contain;
+}
 .tm-page-header {
   color: #444444;
   display: -webkit-box;
