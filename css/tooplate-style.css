@@ -54,6 +54,7 @@ p:last-child {
   background-image: url("https://nextlevelredmond.github.io/img/logo1.png");
   width: 100px;
   height:58px;
+  position: absolute;
   background-size: contain;
 }
 .tm-page-header {
